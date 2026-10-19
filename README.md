@@ -24,5 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Since March 2021
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=robdayz&label=Profile%20views&color=0e75b6&style=flat" alt="robdayz" /> </p>
+
